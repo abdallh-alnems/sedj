@@ -1,4 +1,4 @@
-package com.example.sedj
+package ni.nims.sedj
 
 import io.flutter.embedding.android.FlutterActivity
 
